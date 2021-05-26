@@ -133,6 +133,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - Inspectlet	http://www.inspectlet.com/plans
 - Zoom Analytics http://zoomanalytics.co/
 - LiveSession - https://livesession.io/
+- Fingerprint for Success (People Analytics) - https://www.fingerprintforsuccess.com/
 
 ### Accounting & Finance
 - Wave Apps - https://www.waveapps.com
